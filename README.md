@@ -1,2 +1,3 @@
 # Project
-Project workers- Aditya Singh, Aditya Vikram Singh, Ayush Singh, Bipin Singh, Ashutosh Kumar 
+Project workers:-<br>
+ Aditya Singh,<br> Aditya Vikram Singh,<br> Ayush Singh,<br> Bipin Singh,<br> Ashutosh Kumar 
